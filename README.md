@@ -1,18 +1,15 @@
-### Hi there 👋
+# Hi, I'm Reytee 
 
-![](https://komarev.com/ghpvc/?username=ReyteeJC&color=brightgreen)
+*I am currently a graduate student.*  
+*My major is game creation, looking for a job in game development, related to the language I studied.*  
 
-<!--
-**ReyteeJC/ReyteeJC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages Programming
+![JS](https://img.shields.io/badge/javascript%20skill-10/10-black?style=for-the-badge&logo=JavaScript)  
+![TS](https://img.shields.io/badge/typescript%20skill-7/10-black?style=for-the-badge&logo=TypeScript)  
+![C++](https://img.shields.io/badge/c++%20skill-4/10-black?style=for-the-badge&logo=cplusplus)  
+    
+## Server Languages
+![NodeJS](https://img.shields.io/badge/nodeJS-black?style=for-the-badge&logo=Node.js)
+![Deno](https://img.shields.io/badge/deno-black?style=for-the-badge&logo=deno)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
